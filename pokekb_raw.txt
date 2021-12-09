@@ -1,0 +1,134 @@
+Pokemon are creatures of all shapes and sizes who live in the wild or alongside humans. For the most part, Pokemon do not speak except to utter their names. Pokemon are raised and commanded by their owners (called "Trainers"). During their adventures, Pokemon grow and become more experienced and even, on occasion, evolve into stronger Pokemon. There are currently more than 700 creatures that inhabit the Pokemon universe.
+
+
+Pokemon[a][1][2][3] (an abbreviation for Pocket Monsters[b] in Japan) is a Japanese media franchise managed by The Pokemon Company, a company founded by Nintendo, Game Freak, and Creatures. 
+
+The franchise was created by Satoshi Tajiri in 1996,[4] and is centered on fictional creatures called "Pokemon". 
+
+In Pokemon, humans, known as Pokemon Trainers, catch and train Pokemon to battle other Pokemon for sport. All media works within the franchise are set in the Pokemon universe. The English slogan for the franchise is "Gotta Catch ‘Em All!".[5][6] There are currently 901 Pokemon species.[7]
+
+The franchise began as Pocket Monsters: Red and Green (later released outside of Japan as Pokemon Red and Blue), a pair of video games for the original Game Boy handheld system that were developed by Game Freak and published by Nintendo in February 1996. It soon became a media mix franchise adapted into various different media.
+
+[8] Pokemon has since become the highest-grossing media franchise of all time. 
+
+The first Pokemon video games were released for the Nintendo Game Boy in 1998, and the series has driven the popularity of Pokemon ever since. 
+
+Pokemon games have thus far appeared exclusively on Nintendo systems, including the Nintendo 3DS and Wii U console.
+
+In most games, the player takes on the role of a young Trainer whose journey involves traveling from place to place, catching and training Pokemon, and battling against other Trainers' Pokemon on a quest to become the Pokemon League Champion. An additional goal is to catch and catalog all of the many Pokemon within the game's world. Despite this battling aspect of the games, the Pokemon games avoid explicit violence; Pokemon never die during the course of the game. Trainers are invited to take part in many peripheral activities when playing, including talent and beauty contests, tournaments, and fishing (for Pokemon, of course!).
+
+Players can battle and trade Pokemon with other players as well, letting children learn the merits of sharing and sportsmanship. With newer video game systems, players can even play and trade online with other Trainers around the world.
+
+The name Pokemon is a syllabic abbreviation of the Japanese brand Pocket Monsters.[22] The term "Pokemon", in addition to referring to the Pokemon franchise itself, also collectively refers to the 898 fictional species that have made appearances in Pokemon media as of the release of the eighth generation titles Pokemon Sword and Shield. "Pokemon" is identical in the singular and plural, as is each individual species name; it is and would be grammatically correct to say "one Pokemon" and "many Pokemon", as well as "one Pikachu" and "many Pikachu".[23]
+
+Pokemon is set in the fictional Pokemon universe. There are numerous regions that have appeared in the various media of the Pokemon franchise. 
+
+There are 8 main series regions set in the main series games: Kanto, Johto, Hoenn, Sinnoh/Hisui, Unova, Kalos, Alola, and Galar. 
+
+Each of the eight generations of the main series releases focuses on a new region. Every region consists of several cities and towns that the player must explore in order to overcome many waiting challenges, such as Gyms, Contests and villainous teams. At different locations within each region, the player can find different types of Pokemon, as well as helpful items and characters. Different regions are not accessible from one another at all within a single game, only with the exception of Kanto and Johto being linked together in Pokemon Gold, Silver, Crystal, HeartGold and SoulSilver versions. There are also regions set in spinoff games and two islands in the Pokemon anime (Orange Islands and Decolore Islands), all still set within the same fictional universe.
+
+Each main series region in the Pokemon universe is based on a real world location. 
+
+The first 4 introduced regions (Kanto, Johto, Hoenn, and Sinnoh/Hisui) are based on parts of Japan, with later regions being based on parts of the United States (Unova and Alola), France (Kalos) and the United Kingdom (Galar).[25]
+
+Types refer to different elemental properties associated with both Pokemon and their moves. 
+
+Each type has its own strengths and weaknesses, most of which are logical setups. 
+
+Fire-type Pokemon are weak against Water-type Pokemon. 
+
+Ice-type Pokemon are weak against Fire-type Pokemon. 
+
+Water-type Pokemon are weak against Electric-type Pokemon, etc. 
+
+These matchups also apply to the types of moves as well: A Fire-type move such as Ember will be strong against a Grass-type Pokemon such as Bulbasaur. 
+
+
+
+Types refer to different elemental properties associated with both Pokemon and their moves.
+
+There are 18 total official types of Pokemon.
+
+These 18 types apply to both Pokemon and their moves. Prior to Generation V, there used to be a ??? type which was only applied to the move Curse before having its typing changed, and the Shadow type, which was only present in Pokemon Colosseum and Pokemon XD: Gale of Darkness.
+
+Each type has its own strengths and weaknesses, most of which are logical setups. 
+
+Fire-type Pokemon are weak against Water-type Pokemon, Ice-type Pokemon are weak against Fire-type Pokemon, Water-type Pokemon are weak against Electric-type Pokemon, etc. These matchups also apply to the types of moves as well: A Fire-type move such as Ember will be strong against a Grass-type Pokemon such as Bulbasaur. Some types of Pokemon are also immune to a certain type of moves, regardless of its attack power, such as using an offensive Ghost-type move on a Normal-type Pokemon.
+
+Pokemon themselves can have up to two types, making them dual-type Pokemon, but moves can only be one type (with the exception of the move Flying Press which is a Fighting/Flying-type move). Most if not all dual-type Pokemon's types correspond with one another such as a Grass/Poison-type Pokemon such as Bulbasaur, or a Rock/Ground-type Pokemon such as Onix. However, not all dual-type Pokemon's types relate to each other like this. Some Pokemon may be dual-type between two types that don't normally go together such as Water/Electric types (such as Lanturn) or Grass/Water types (such as Ludicolo) or Grass/Flying types (such as Jumpluff), or Fighting/Psychic (such as Medicham).
+
+Some dual-type Pokemon lose one of their types and gain a different type upon Evolution such as Scyther (a Bug/Flying type) which evolves into Scizor (a Bug/Steel type). Some singular type Pokemon will change completely to a different type or types upon evolution, such as Azurill (a Normal/Fairy type) which evolves into Marill (a Water/Fairy type). One Pokemon also completely lose a type upon evolution, Gloom (a Grass/Poison type) evolves into Bellossom (a Grass type). Some Pokemon can also change their type altogether, like Eevee (a Normal type) which can evolve into one of eight different types, or Cubone (a Ground type) which evolves into Alolan Marowak (a Fire/Ghost type).
+
+Dark-type Pokemon are immune to moves that gain priority from the Ability Prankster.
+
+Electric-type Pokemon cannot be Paralyzed.
+
+Fire-type Pokemon cannot be Burned.
+
+Flying-type Pokemon are not considered grounded, thus not affected by things such as Grassy Terrain and Spikes. If a Flying type uses the move Roost, it will lose the Flying typing for the rest of the turn.
+
+Ghost-type Pokemon are immune to effects that prevent escape, and are guaranteed to flee from a wild battle.
+
+Grass-type Pokemon are immune to the move Leech Seed, Spore and Powder moves, as well as the Ability Effect Spore.
+
+Ground-type Pokemon cannot be Paralyzed by Electric-type moves, and don't take damage from the Sandstorm weather condition.
+
+Ice-type Pokemon cannot be Frozen, are immune to the move Sheer Cold, and don't take damage from the Hail weather condition.
+
+Poison-type Pokemon cannot be Poisoned, and will remove Toxic Spikes from their side if grounded, when switched in. If a Poison type uses the move Toxic, it won't miss.
+
+Rock-type Pokemon gain a 50% Special Defense increase, and don't take damage from the Sandstorm weather condition.
+
+Steel-type Pokemon cannot be Poisoned and don't take damage from the Sandstorm weather condition.
+
+Rather than just being a superficial personality, Natures actually affect the growth of a Pokemon. Each nature increases one of its stats by 10% and decreases one by 10% (by the time it reaches level 100). 
+
+Five natures increase and decrease the same stat and therefore have no effect.
+
+In most cases it is preferable to have a nature that decreases either Attack or Special Attack for Pokemon whose strengths are the opposite type of attack. Espeon, for example, favours Special moves, so it's best to use a nature that decreases its Attack since it won't be used.
+
+A Pokemon's nature also determines the berries it likes and dislikes. Each type of berry is linked to one stat. The berry a Pokemon likes is the corresponding flavour of its raised stat, while the berry it dislikes is the flavour of its lowered stat.
+
+For example, a Pokemon of Sassy nature will like Bitter berries (Special Defense is raised) and dislike Sweet berries (Speed is lowered). 
+
+Something new to the game mechanics of Pokemon in the third generation compared to the last two is the addition of Nature Values, or just simply Natures. Choosing the right nature is important for your pokemon, as it can give you a definitive edge in battle. Along with that, it can also hamper your chances to win if used incorrectly. This guide points out how to use Nature Values effectively.
+
+First off, let me explain how nature values affect pokemon. In the game mechanics of today, a nature value will always give a 10% increase in one stat and a 10% decrease in another stat. If you know of the neutral natures that give no bonus whatsoever, its because one stat is having a 10% increase and a 10% decrease in the same stat. They cancel each other out basically. Natures will give potential bonuses to every stat except for Hit Points.
+
+So, the first thing to do when going for a nature for your pokemon is to have a moveset in mind. If you're going for a special sweeper, you might as well choose something that's going to increase your special attack. Along with that though, you're going to have to decrease one of your other stats. However, if you're not using any attacks that use the Attack stat, then you might as well choose the nature to decrease that stat (which is Modest, btw).
+
+In HeartGold & SoulSilver, on the Skills page on your Pokemon's status screen, you may notice a slight hue on the stat name. This will indicate the stats that the nature of your Pokemon will boost. If the stat name has a slight tint of Red to it, it boosts that stat and if it has a hint of Blue, it hinders that stat. In addition to that, the natures also affect the Pokemon's Pokeathlon stats.
+
+When transferring from Pokemon Red, Green, Blue or Yellow, the Pokemon's nature is determined by dividing the experience the Pokemon has by 25. Then, using the remainder of that, you can determine the nature so if the remainder is 10, then it is Timid, or if it's 0, it is Hardy.
+
+Below are all the natures and what states they raise. The berries stop confusion when used on Pokemon of the certain nature. 
+
+Legendary Pokemon are a group of incredibly rare and often very powerful Pokemon, generally featured prominently in the legends and myths of the Pokemon world.
+
+Special Pokemon is a subcategory of the Legendary Pokemon that are restricted or banned from certain official tournaments, battle facilities, and link battle formats. Most Special Pokemon are Legendary game mascots.
+
+Mythical Pokemon are a related but separate group of Pokemon, which are usually event-exclusive. In Western language media, Mythical Pokemon were considered to be Legendary Pokemon prior to Generation V; in Japanese and Korean media, the two groups have always been considered distinct.
+
+Legendary Pokemon are usually encountered as interactable or roaming Pokemon. Starting in Platinum, legendary Pokemon will reappear when the player defeats the Champion if the Pokemon fainted earlier.
+
+Evolutionary Stones are crystals with the power of a certain element that can instantly evolve certain Pokemon they are used on. There are currently ten known types of these stones.
+
+A Water Stone is a special elemental stone introduced in Generation I, with an elliptical-shaped stone that is blue in appearance, with a bubble insignia inside of it.
+
+A Thunder Stone is a special elemental stone, introduced in Generation I, with an elliptical-shaped stone that is green in appearance, with a thunderbolt insignia inside of it.
+
+A Fire Stone is a special elemental stone, introduced in Generation I, with an elliptical-shaped stone that is yellow in appearance, with a fire insignia inside of it.
+
+A Leaf Stone is a special elemental stone, introduced in Generation I, with a green elliptical-shape stone on which the shape of a leaf is engraved.
+
+A Moon Stone is a special elemental stone introduced in Generation I, with an elliptical-shaped stone that is gray in appearance, looks somewhat like a moon rock, and usually makes Fairy-group Pokémon evolve.
+
+A Sun Stone is a special elemental stone introduced in Generation II, that usually makes plant Pokémon with some connection to the sun evolve.
+
+A Dawn Stone is a peculiar stone introduced in Generation IV that will only evolve Pokemon of a determinate gender.
+
+A Dusk Stone is peculiar stone introduced in Generation IV that will evolve certain Pokemon associated with nighttime.
+
+A Shiny Stone is a special elemental stone introduced in Generation IV which only evolves certain Fairy-Group Pokemon.
+
+An Ice Stone is a special elemental ston, introduced in Generation VII, that has a snowy-blue stone that shines with white light and has a snowflake pattern inside.
